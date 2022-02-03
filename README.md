@@ -5,10 +5,6 @@
 </a>
 
 
-
-- 🔭 I’m currently working on several discord bots.
-- 🌱 I’m currently learning html and node.js.
-- 💬 Ask me about anything really!
-- 😄 Pronouns: He/Him
+i write shite code
 
 
