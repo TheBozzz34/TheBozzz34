@@ -35,5 +35,3 @@ i write code
 <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
 
 </div>
-
-[BURN](https://open.spotify.com/track/04CyMEHliadfQWMUJb1w99?si=fbb8c6d050db4ce6)
